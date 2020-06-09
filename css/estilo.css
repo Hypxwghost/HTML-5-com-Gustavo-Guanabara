@@ -1,12 +1,12 @@
 @charset "utf-8";
 @font-face{
 	font-family: 'fonte-logo';
-	src: url("../_fonts/OleoScriptSwashCaps-bold.ttf");
+	src: url("../fonts/OleoScriptSwashCaps-bold.ttf");
 }
 
 @font-face{
 	font-family: 'fonte1';
-	src: url('../_fonts/courgette-regular.ttf');
+	src: url('../fonts/courgette-regular.ttf');
 }
 
 body {
@@ -45,7 +45,7 @@ header#cabecalho img#icone {
 header#cabecalho {
 	border-bottom: 1px #606060 solid;
 	height: 150px;
-	background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+	background: url("../imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 }
 
 header#cabecalho h1 {
